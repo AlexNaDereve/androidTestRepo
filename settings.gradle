@@ -1,0 +1,2 @@
+rootProject.name = "Random_Example_Git"
+include ':app'
